@@ -20,7 +20,7 @@ A lightweight Python tool that auto-types text from your clipboard into any acti
 1. Clone the repo or download the `autotyper.py` file:
 
 bash
-git clone https://github.com/your-username/autotyper.git
+git clone https://github.com/Athul-T-S/autotyper.git
 cd autotyper 
 
 Install dependencies:
